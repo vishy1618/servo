@@ -17616,6 +17616,18 @@
         "url": "/html/semantics/embedded-content/media-elements/volume_nonfinite.html"
       },
       {
+        "path": "html/semantics/embedded-content/the-area-element/area-coords.html",
+        "url": "/html/semantics/embedded-content/the-area-element/area-coords.html"
+      },
+      {
+        "path": "html/semantics/embedded-content/the-area-element/area-processing.html",
+        "url": "/html/semantics/embedded-content/the-area-element/area-processing.html"
+      },
+      {
+        "path": "html/semantics/embedded-content/the-area-element/area-shape.html",
+        "url": "/html/semantics/embedded-content/the-area-element/area-shape.html"
+      },
+      {
         "path": "html/semantics/embedded-content/the-area-element/area-stringifier.html",
         "url": "/html/semantics/embedded-content/the-area-element/area-stringifier.html"
       },
@@ -26352,6 +26364,10 @@
         "url": "/shadow-dom/ShadowRoot-interface.html"
       },
       {
+        "path": "shadow-dom/styles/shadow-cascade-order.html",
+        "url": "/shadow-dom/styles/shadow-cascade-order.html"
+      },
+      {
         "path": "shadow-dom/untriaged/elements-and-dom-objects/extensions-to-element-interface/attributes/test-001.html",
         "url": "/shadow-dom/untriaged/elements-and-dom-objects/extensions-to-element-interface/attributes/test-001.html"
       },
@@ -30272,6 +30288,10 @@
         "url": "/websockets/Create-Secure-verify-url-set-non-default-port.htm"
       },
       {
+        "path": "websockets/Create-asciiSep-protocol-string.htm",
+        "url": "/websockets/Create-asciiSep-protocol-string.htm"
+      },
+      {
         "path": "websockets/Create-invalid-urls.htm",
         "url": "/websockets/Create-invalid-urls.htm"
       },
@@ -30286,6 +30306,10 @@
       {
         "path": "websockets/Create-protocol-with-space.htm",
         "url": "/websockets/Create-protocol-with-space.htm"
+      },
+      {
+        "path": "websockets/Create-protocols-repeated-case-insensitive.htm",
+        "url": "/websockets/Create-protocols-repeated-case-insensitive.htm"
       },
       {
         "path": "websockets/Create-protocols-repeated.htm",
@@ -33316,22 +33340,7 @@
   },
   "local_changes": {
     "deleted": [],
-    "items": {
-      "testharness": {
-        "websockets/Create-asciiSep-protocol-string.htm": [
-          {
-            "path": "websockets/Create-asciiSep-protocol-string.htm",
-            "url": "/websockets/Create-asciiSep-protocol-string.htm"
-          }
-        ],
-        "websockets/Create-protocols-repeated-case-insensitive.htm": [
-          {
-            "path": "websockets/Create-protocols-repeated-case-insensitive.htm",
-            "url": "/websockets/Create-protocols-repeated-case-insensitive.htm"
-          }
-        ]
-      }
-    },
+    "items": {},
     "reftest_nodes": {}
   },
   "reftest_nodes": {
@@ -39444,7 +39453,7 @@
       }
     ]
   },
-  "rev": "0d9238c8062f05a55898a0cb60dc0c353794d87a",
+  "rev": "2afde1511a04f02afddb705ba7412db0f4f03a16",
   "url_base": "/",
   "version": 2
 }
